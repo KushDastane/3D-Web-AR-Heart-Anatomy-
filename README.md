@@ -7,7 +7,7 @@ An interactive Web AR application built with PlayCanvas to explore human heart a
 - Inactivity timer to automatically turn the heart lifeless after 30 seconds
 
 ## How to Run
-- Open `[index.html](https://launch.playcanvas.com/2104581?debug=true)` in a Web AR-supported browser.
+- Open `https://launch.playcanvas.com/2104581?debug=true` in a Web AR-supported browser.
 - Use a Hiro marker to trigger the AR view.
 
 ## Technology Stack
